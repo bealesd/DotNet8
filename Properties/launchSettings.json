@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "DotNet8": {
+      "commandName": "Project",
+      "commandLineArgs": "--Environment=AT"
+    }
+  }
+}
